@@ -74,7 +74,7 @@ ChatGPT，全称聊天生成预训练转换器（英语：Chat Generative Pre-tr
 
 # 部署自己的ChatGPT，基于 OpenAI API
 - 有了 OpenAI API Key，可以自己部署 ChatGPT 服务
-- https://github.com/QiuZhiFei/ChatGPT-Next-Web
+- https://github.com/Yidadaa/ChatGPT-Next-Web
 - https://github.com/WongSaang/chatgpt-ui
 - https://github.com/pengzhile/pandora
 
