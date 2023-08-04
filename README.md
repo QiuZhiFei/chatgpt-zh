@@ -82,3 +82,4 @@ ChatGPT，全称聊天生成预训练转换器（英语：Chat Generative Pre-tr
 
 # Prompts
 - https://snackprompt.com/
+- https://flowgpt.com/
